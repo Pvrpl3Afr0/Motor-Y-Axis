@@ -1,2 +1,2 @@
 # Motor-Y-Axis
-This code was written to get the robot to move Forwards and Backwards. 
+This code was written to get our FTC robot to move Forwards and Backwards. 
