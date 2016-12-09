@@ -30,10 +30,12 @@ public class cs extends LinearOpMode{
             leftFront.setPower(-gamepad1.left_stick_y);
 
             leftBack.setPower(gamepad1.right_stick_x);
-            rightBack.setPower(-gamepad1.right_stick_x);
+            rightBack.setPower(gamepad1.right_stick_x);
+
+            leftBack.setPower(-gamepad1.right_stick_x);
+            rightback.setPower(-gamepad1.right_stick_x);
+
             
-
-
 
         }
 
